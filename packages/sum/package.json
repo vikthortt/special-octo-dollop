@@ -1,6 +1,6 @@
 {
   "name": "@vikthortt/sum",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "sum two numbers",
   "main": "lib/index.js",
   "types": "types.d.ts",

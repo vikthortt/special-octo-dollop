@@ -1,5 +1,5 @@
 {
-  "name": "sum",
+  "name": "@vikthortt/sum",
   "version": "0.1.1",
   "description": "sum two numbers",
   "main": "lib/index.js",

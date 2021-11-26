@@ -1,6 +1,6 @@
 {
   "name": "@vikthortt/sum",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "sum two numbers",
   "main": "lib/index.js",
   "types": "types.d.ts",
@@ -28,5 +28,5 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@vikthortt"
   },
-  "gitHead": "b7fe3ffc046fd853ef081d0d4ebb9fb00acaf370"
+  "gitHead": "351bd42b2253ad34ee7b43b9b6ee8f93be41aa88"
 }

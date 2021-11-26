@@ -1,6 +1,6 @@
 {
   "name": "@vikthortt/substract",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "substract two numbers",
   "main": "lib/index.js",
   "types": "types.d.ts",

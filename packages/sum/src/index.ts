@@ -1,2 +1,2 @@
-import { sum } from './sum'
-export { sum }
+import { sum, concat } from './sum'
+export { sum, concat }
